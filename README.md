@@ -19,8 +19,6 @@ SYVD is a price comparison web platform built to support small Irish tech and br
 - Version Control: Git, GitHub  
 - Tools: Canva (for mockup design), Visual Studio Code  
 
-## 📌 Screenshots
-
 
 ## 🚀 Future Improvements
 - Integrate price-tracking API  
